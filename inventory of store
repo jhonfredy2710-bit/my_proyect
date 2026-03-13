@@ -1,6 +1,6 @@
-#Inventory "store the dolar"
+# Inventory "store the dolar"
 
-#the user can calculator totality of product and quantity of money.
+# the user can calculator totality of product and quantity of money.
 
 products = input("into name of a product: ")
 price = float(input("into price of product: "))
